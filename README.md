@@ -9,7 +9,6 @@ To be updated when each assignment is submitted
 * Question 4. Linear Least Squares (SLS) and Least-mean-square (LMS)
 * Question 5. Optimizing weight to minimize the given cost function
 
-2. Homework 2 in Progress
-.
-.
-.
+2. Homework 2 (Multi Layer Perceptron - Regression and Classification) to be uploaded on 27, Feb, 2022
+
+3. Homework 3 (Radial Basis Function Network and Self Organising Maps) in progress
