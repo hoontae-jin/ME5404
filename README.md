@@ -1,5 +1,5 @@
 # ME5404
-Neural Networks
+Neural Networks (5 projects in total)
 To be updated when each assignment is submitted
 
 1. Homework 1 (Single Layer Perceptron)
@@ -9,6 +9,9 @@ To be updated when each assignment is submitted
 * Question 4. Linear Least Squares (SLS) and Least-mean-square (LMS)
 * Question 5. Optimizing weight to minimize the given cost function
 
-2. Homework 2 (Multi Layer Perceptron - Regression and Classification) to be uploaded on 27, Feb, 2022
+2. Homework 2 (Multi Layer Perceptron - Regression and Classification)
+* Question 1. Steepest (Gradient descent) and Newton's method to find the global minimum in the Rosenbrock's Valley function
+* Question 2. Function approximation by Multi-layer percetron
+* Question 3. Image Classification 
 
 3. Homework 3 (Radial Basis Function Network and Self Organising Maps) in progress
