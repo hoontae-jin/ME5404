@@ -14,4 +14,9 @@ To be updated when each assignment is submitted
 * Question 2. Function approximation by Multi-layer percetron
 * Question 3. Image Classification 
 
-3. Homework 3 (Radial Basis Function Network and Self Organising Maps) in progress
+3. Homework 3 (Radial Basis Function Network and Self Organising Maps)
+* Question 1. RBFN for Function Approximatiom
+* Question 2. RBFN for Hand-written Digits Classificaiton
+* Question 3. SOM Construction
+
+4. Mini-project1 (Support Vector Machine) in progress 
