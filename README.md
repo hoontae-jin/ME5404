@@ -19,4 +19,7 @@ To be updated when each assignment is submitted
 * Question 2. RBFN for Hand-written Digits Classificaiton
 * Question 3. SOM Construction
 
-4. Mini-project1 (Support Vector Machine) in progress 
+4. Mini-project1 (Support Vector Machine) - To be updated on 21st, April, 2022
+* Topic : Classification of Spam Email Messages
+* Utilized multiple kernels (linear, polynomial and RBF) and picked the best performing kernel for the data given
+5. Reinforcement Learning (RL) in progress
